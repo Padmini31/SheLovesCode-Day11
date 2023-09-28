@@ -1,0 +1,18 @@
+#c{height:70px; 
+    width:50%; 
+    margin:2%; 
+    border:2px solid black;
+    text-align :center;
+    }
+#mod{
+  position:fixed;
+  top:10px;
+  height:auto ;
+  background-color:pink;
+  padding:20px;
+display: none;
+}
+
+body{
+    padding:20px;
+}
